@@ -1,4 +1,6 @@
-# Flash the STM32F3Discovery
+# Embedded Odometry for Ground Robot
+
+## Flash the STM32F3Discovery
 What you need
 STM32CubeIDE installed on  PC
 The Project2scratch project (unzip Project2scratch.zip)
